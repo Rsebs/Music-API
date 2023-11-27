@@ -1,0 +1,14 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "Spring Boot-MusicApiApplication<music-api>",
+			"request": "launch",
+			"cwd": "${workspaceFolder}",
+			"mainClass": "net.ruiz.musicapi.MusicApiApplication",
+			"projectName": "music-api",
+			"args": "",
+			"envFile": "${workspaceFolder}/.env"
+		}
+	]
+}
